@@ -25,6 +25,8 @@ source-repository head
 
 library
   exposed-modules:
+      Gift.HighLevelCommonValidator
+      Gift.LowLevelCommonValidator
       Lib
   other-modules:
       Paths_plutusex
